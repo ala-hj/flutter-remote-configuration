@@ -16,4 +16,4 @@ For help getting started with Flutter, view flutter documentation
 samples, guidance on mobile development, and a full API reference.
 
 My email is @ alla.hajjdeveloper@gmail.com
-# remote_application_flutter
+# flutter-remote-configuration
