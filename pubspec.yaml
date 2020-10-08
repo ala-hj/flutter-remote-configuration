@@ -1,0 +1,32 @@
+name: remote_application
+description: A Flutter project shows how to use Firestore as remote configuration service.›
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  equatable: ^1.2.5
+  get: ^3.12.1
+  cloud_firestore: ^0.14.1+2
+  webview_flutter: ^1.0.0
+  dio: ^3.0.10
+  json_serializable: ^3.5.0
+  json_annotation: ^3.1.0
+  flappy_search_bar: ^1.7.2
+  firebase_core: ^0.5.0
+  waterfall_flow: ^2.0.3
+  cupertino_icons: ^1.0.0
+
+dev_dependencies:
+  build_runner: ^1.1.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/movies/

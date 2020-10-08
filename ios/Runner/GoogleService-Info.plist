@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>918450874789-i85rnf9cjidqe9a1anu6475r1jkja5uf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.918450874789-i85rnf9cjidqe9a1anu6475r1jkja5uf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAWMvCPs1ieJ5s-kl4uL_U0oe3t-hpSAkE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>918450874789</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.remoteApplication</string>
+	<key>PROJECT_ID</key>
+	<string>remote-application-75b92</string>
+	<key>STORAGE_BUCKET</key>
+	<string>remote-application-75b92.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:918450874789:ios:a5011c1edc5c1cccee604c</string>
+	<key>DATABASE_URL</key>
+	<string>https://remote-application-75b92.firebaseio.com</string>
+</dict>
+</plist>
